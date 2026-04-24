@@ -1,2 +1,5 @@
 [credential]
 	helper = store
+[user]
+	name = Shishir
+	email = shishir123@gmail.com
