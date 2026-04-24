@@ -12,11 +12,17 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1776669807,,"wq"
+|2,0,1777005698,,"wq"
+:WQ
+|2,0,1776969565,,"WQ"
+:!wq
+|2,0,1776838033,,"!wq"
+:wq!\
+|2,0,1776836342,,"wq!\\"
+:wq!
+|2,0,1776836224,,"wq!"
 :0c0c/0c0c/0c0c
 |2,0,1776668479,,"0c0c/0c0c/0c0c"
-:wq!
-|2,0,1776660189,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -29,230 +35,451 @@
 # Registers:
 
 # File marks:
-'0  46  36  ~/cron-job.yml
-|4,48,46,36,1776669807,"~/cron-job.yml"
-'1  1  99  ~/cron-job.yml
-|4,49,1,99,1776669556,"~/cron-job.yml"
-'2  9  13  ~/cron-job.yml
-|4,50,9,13,1776669556,"~/cron-job.yml"
-'3  2  19  ~/cron.job
-|4,51,2,19,1776668522,"~/cron.job"
-'4  4  17  ~/kind-cluster/replicas.yml
-|4,52,4,17,1776667516,"~/kind-cluster/replicas.yml"
-'5  17  25  ~/job.yml
-|4,53,17,25,1776663072,"~/job.yml"
-'6  1  362  ~/job.yml
-|4,54,1,362,1776662884,"~/job.yml"
-'7  19  25  ~/job.yml
-|4,55,19,25,1776662884,"~/job.yml"
-'8  18  26  ~/kind-cluster/daemonset.yml
-|4,56,18,26,1776660354,"~/kind-cluster/daemonset.yml"
-'9  1  0  ~/kind-cluster/replicas.yml
-|4,57,1,0,1776660189,"~/kind-cluster/replicas.yml"
+'0  30  37  ~/mysql/st.yml
+|4,48,30,37,1777005698,"~/mysql/st.yml"
+'1  8  0  ~/mysql/scr.yml
+|4,49,8,0,1777005488,"~/mysql/scr.yml"
+'2  8  23  ~/mysql/configmap.yml
+|4,50,8,23,1777005456,"~/mysql/configmap.yml"
+'3  8  0  ~/mysql/scr.yml
+|4,51,8,0,1777005426,"~/mysql/scr.yml"
+'4  7  22  ~/mysql/scr.yml
+|4,52,7,22,1777005267,"~/mysql/scr.yml"
+'5  7  22  ~/mysql/scr.yml
+|4,53,7,22,1777005267,"~/mysql/scr.yml"
+'6  7  22  ~/mysql/scr.yml
+|4,54,7,22,1777005267,"~/mysql/scr.yml"
+'7  7  22  ~/mysql/scr.yml
+|4,55,7,22,1777005267,"~/mysql/scr.yml"
+'8  33  24  ~/mysql/st.yml
+|4,56,33,24,1776969875,"~/mysql/st.yml"
+'9  30  24  ~/mysql/st.yml
+|4,57,30,24,1776969875,"~/mysql/st.yml"
 
 # Jumplist (newest first):
--'  46  36  ~/cron-job.yml
-|4,39,46,36,1776669807,"~/cron-job.yml"
--'  1  99  ~/cron-job.yml
-|4,39,1,99,1776669642,"~/cron-job.yml"
--'  9  13  ~/cron-job.yml
-|4,39,9,13,1776669556,"~/cron-job.yml"
--'  1  0  ~/cron-job.yml
-|4,39,1,0,1776668569,"~/cron-job.yml"
--'  2  19  ~/cron.job
-|4,39,2,19,1776668522,"~/cron.job"
--'  2  19  ~/cron.job
-|4,39,2,19,1776668522,"~/cron.job"
--'  2  19  ~/cron.job
-|4,39,2,19,1776668522,"~/cron.job"
--'  2  19  ~/cron.job
-|4,39,2,19,1776668522,"~/cron.job"
--'  1  0  ~/cron.job
-|4,39,1,0,1776668478,"~/cron.job"
--'  1  0  ~/cron.job
-|4,39,1,0,1776668478,"~/cron.job"
--'  1  0  ~/cron.job
-|4,39,1,0,1776668478,"~/cron.job"
--'  1  0  ~/cron.job
-|4,39,1,0,1776668478,"~/cron.job"
--'  4  17  ~/kind-cluster/replicas.yml
-|4,39,4,17,1776667516,"~/kind-cluster/replicas.yml"
--'  4  17  ~/kind-cluster/replicas.yml
-|4,39,4,17,1776667516,"~/kind-cluster/replicas.yml"
--'  4  17  ~/kind-cluster/replicas.yml
-|4,39,4,17,1776667516,"~/kind-cluster/replicas.yml"
--'  4  17  ~/kind-cluster/replicas.yml
-|4,39,4,17,1776667516,"~/kind-cluster/replicas.yml"
--'  4  17  ~/kind-cluster/replicas.yml
-|4,39,4,17,1776667516,"~/kind-cluster/replicas.yml"
--'  4  17  ~/kind-cluster/replicas.yml
-|4,39,4,17,1776667516,"~/kind-cluster/replicas.yml"
--'  4  17  ~/kind-cluster/replicas.yml
-|4,39,4,17,1776667516,"~/kind-cluster/replicas.yml"
--'  4  17  ~/kind-cluster/replicas.yml
-|4,39,4,17,1776667516,"~/kind-cluster/replicas.yml"
--'  17  25  ~/job.yml
-|4,39,17,25,1776663072,"~/job.yml"
--'  17  25  ~/job.yml
-|4,39,17,25,1776663072,"~/job.yml"
--'  17  25  ~/job.yml
-|4,39,17,25,1776663072,"~/job.yml"
--'  17  25  ~/job.yml
-|4,39,17,25,1776663072,"~/job.yml"
--'  17  25  ~/job.yml
-|4,39,17,25,1776663072,"~/job.yml"
--'  17  25  ~/job.yml
-|4,39,17,25,1776663072,"~/job.yml"
--'  17  25  ~/job.yml
-|4,39,17,25,1776663072,"~/job.yml"
--'  17  25  ~/job.yml
-|4,39,17,25,1776663072,"~/job.yml"
--'  1  362  ~/job.yml
-|4,39,1,362,1776663008,"~/job.yml"
--'  1  362  ~/job.yml
-|4,39,1,362,1776663008,"~/job.yml"
--'  1  362  ~/job.yml
-|4,39,1,362,1776663008,"~/job.yml"
--'  1  362  ~/job.yml
-|4,39,1,362,1776663008,"~/job.yml"
--'  1  362  ~/job.yml
-|4,39,1,362,1776663008,"~/job.yml"
--'  1  362  ~/job.yml
-|4,39,1,362,1776663008,"~/job.yml"
--'  1  362  ~/job.yml
-|4,39,1,362,1776663008,"~/job.yml"
--'  1  362  ~/job.yml
-|4,39,1,362,1776663008,"~/job.yml"
--'  19  25  ~/job.yml
-|4,39,19,25,1776662884,"~/job.yml"
--'  19  25  ~/job.yml
-|4,39,19,25,1776662884,"~/job.yml"
--'  19  25  ~/job.yml
-|4,39,19,25,1776662884,"~/job.yml"
--'  19  25  ~/job.yml
-|4,39,19,25,1776662884,"~/job.yml"
--'  19  25  ~/job.yml
-|4,39,19,25,1776662884,"~/job.yml"
--'  19  25  ~/job.yml
-|4,39,19,25,1776662884,"~/job.yml"
--'  19  25  ~/job.yml
-|4,39,19,25,1776662884,"~/job.yml"
--'  19  25  ~/job.yml
-|4,39,19,25,1776662884,"~/job.yml"
--'  1  0  ~/job.yml
-|4,39,1,0,1776662460,"~/job.yml"
--'  1  0  ~/job.yml
-|4,39,1,0,1776662460,"~/job.yml"
--'  1  0  ~/job.yml
-|4,39,1,0,1776662460,"~/job.yml"
--'  1  0  ~/job.yml
-|4,39,1,0,1776662460,"~/job.yml"
--'  1  0  ~/job.yml
-|4,39,1,0,1776662460,"~/job.yml"
--'  1  0  ~/job.yml
-|4,39,1,0,1776662460,"~/job.yml"
--'  1  0  ~/job.yml
-|4,39,1,0,1776662460,"~/job.yml"
--'  1  0  ~/job.yml
-|4,39,1,0,1776662460,"~/job.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  18  26  ~/kind-cluster/daemonset.yml
-|4,39,18,26,1776660354,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
--'  1  0  ~/kind-cluster/daemonset.yml
-|4,39,1,0,1776660343,"~/kind-cluster/daemonset.yml"
+-'  30  37  ~/mysql/st.yml
+|4,39,30,37,1777005698,"~/mysql/st.yml"
+-'  33  24  ~/mysql/st.yml
+|4,39,33,24,1777005507,"~/mysql/st.yml"
+-'  8  0  ~/mysql/scr.yml
+|4,39,8,0,1777005488,"~/mysql/scr.yml"
+-'  8  0  ~/mysql/scr.yml
+|4,39,8,0,1777005488,"~/mysql/scr.yml"
+-'  8  23  ~/mysql/configmap.yml
+|4,39,8,23,1777005456,"~/mysql/configmap.yml"
+-'  8  23  ~/mysql/configmap.yml
+|4,39,8,23,1777005456,"~/mysql/configmap.yml"
+-'  8  23  ~/mysql/configmap.yml
+|4,39,8,23,1777005456,"~/mysql/configmap.yml"
+-'  8  23  ~/mysql/configmap.yml
+|4,39,8,23,1777005456,"~/mysql/configmap.yml"
+-'  8  0  ~/mysql/scr.yml
+|4,39,8,0,1777005426,"~/mysql/scr.yml"
+-'  8  0  ~/mysql/scr.yml
+|4,39,8,0,1777005426,"~/mysql/scr.yml"
+-'  8  0  ~/mysql/scr.yml
+|4,39,8,0,1777005426,"~/mysql/scr.yml"
+-'  8  0  ~/mysql/scr.yml
+|4,39,8,0,1777005426,"~/mysql/scr.yml"
+-'  7  22  ~/mysql/scr.yml
+|4,39,7,22,1777005301,"~/mysql/scr.yml"
+-'  7  22  ~/mysql/scr.yml
+|4,39,7,22,1777005301,"~/mysql/scr.yml"
+-'  7  22  ~/mysql/scr.yml
+|4,39,7,22,1777005301,"~/mysql/scr.yml"
+-'  7  22  ~/mysql/scr.yml
+|4,39,7,22,1777005301,"~/mysql/scr.yml"
+-'  7  22  ~/mysql/scr.yml
+|4,39,7,22,1777005301,"~/mysql/scr.yml"
+-'  7  22  ~/mysql/scr.yml
+|4,39,7,22,1777005301,"~/mysql/scr.yml"
+-'  7  22  ~/mysql/scr.yml
+|4,39,7,22,1777005267,"~/mysql/scr.yml"
+-'  7  22  ~/mysql/scr.yml
+|4,39,7,22,1777005267,"~/mysql/scr.yml"
+-'  7  22  ~/mysql/scr.yml
+|4,39,7,22,1777005267,"~/mysql/scr.yml"
+-'  7  22  ~/mysql/scr.yml
+|4,39,7,22,1777005267,"~/mysql/scr.yml"
+-'  1  0  ~/mysql/scr.yml
+|4,39,1,0,1777005162,"~/mysql/scr.yml"
+-'  1  0  ~/mysql/scr.yml
+|4,39,1,0,1777005162,"~/mysql/scr.yml"
+-'  1  0  ~/mysql/scr.yml
+|4,39,1,0,1777005162,"~/mysql/scr.yml"
+-'  1  0  ~/mysql/scr.yml
+|4,39,1,0,1777005162,"~/mysql/scr.yml"
+-'  1  0  ~/mysql/scr.yml
+|4,39,1,0,1777005162,"~/mysql/scr.yml"
+-'  1  0  ~/mysql/scr.yml
+|4,39,1,0,1777005162,"~/mysql/scr.yml"
+-'  1  0  ~/mysql/scr.yml
+|4,39,1,0,1777005162,"~/mysql/scr.yml"
+-'  1  0  ~/mysql/scr.yml
+|4,39,1,0,1777005162,"~/mysql/scr.yml"
+-'  1  0  ~/mysql/scr.yml
+|4,39,1,0,1777005162,"~/mysql/scr.yml"
+-'  1  0  ~/mysql/scr.yml
+|4,39,1,0,1777005162,"~/mysql/scr.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  30  24  ~/mysql/st.yml
+|4,39,30,24,1776969875,"~/mysql/st.yml"
+-'  34  32  ~/mysql/st.yml
+|4,39,34,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969851,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  31  32  ~/mysql/st.yml
+|4,39,31,32,1776969634,"~/mysql/st.yml"
+-'  35  32  ~/mysql/st.yml
+|4,39,35,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
+-'  32  32  ~/mysql/st.yml
+|4,39,32,32,1776969620,"~/mysql/st.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/mysql/st.yml
+	*	1777005693	0
+	"	30	37
+	^	30	38
+	.	30	37
+	+	48	21
+	+	7	27
+	+	32	20
+	+	33	61
+	+	33	28
+	+	34	35
+	+	35	32
+	+	34	32
+	+	33	24
+	+	27	20
+	+	29	32
+	+	30	37
+
+> ~/mysql/scr.yml
+	*	1777005484	0
+	"	8	0
+	^	8	0
+	.	8	0
+	+	7	55
+	+	8	0
+
+> ~/mysql/configmap.yml
+	*	1777005453	0
+	"	8	23
+	^	8	24
+	.	8	23
+	+	2	14
+	+	8	23
+
+> ~/mysql/service.yml
+	*	1776838505	0
+	"	14	19
+	^	14	20
+	.	14	19
+	+	7	17
+	+	14	19
+
+> ~/mysql/stateful.yml
+	*	1776838044	0
+	"	43	0
+	^	42	22
+	.	42	21
+	+	1	65
+	+	1	0
+	+	1	89
+	+	1	0
+	+	42	21
+
+> ~/mysql/stateful.vim
+	*	1776837847	0
+	"	36	21
+	^	36	22
+	.	36	21
+	+	37	0
+	+	29	25
+	+	36	21
+
+> ~/mysql/state.yml
+	*	1776836392	0
+	"	29	25
+	.	29	24
+	+	29	24
+
+> ~/ingress.yml
+	*	1776833571	0
+	"	7	48
+	^	7	49
+	.	7	48
+	+	26	0
+	+	4	27
+	+	11	12
+	+	24	21
+	+	23	24
+	+	18	0
+	+	25	0
+	+	20	15
+	+	7	48
+
+> ~/nginxproject/ingress.yml
+	*	1776833438	0
+	"	1	0
+
+> ~/nginxproject/ingess.vim
+	*	1776833406	0
+	"	1	0
+
+> ~/nginxproject/ingress.ym
+	*	1776833373	0
+	"	1	0
+
+> ~/project/service.yml
+	*	1776830899	0
+	"	5	17
+	^	5	18
+	.	5	17
+	+	13	16
+	+	5	17
+
+> ~/project/deployment.yml
+	*	1776830869	0
+	"	7	17
+	^	7	18
+	.	7	17
+	+	22	27
+	+	4	16
+	+	6	13
+	+	9	12
+	+	12	19
+	+	16	21
+	+	19	22
+	+	20	45
+	+	22	28
+	+	4	27
+	+	7	17
+
+> ~/pg/nm.yml
+	*	1776787279	0
+	"	4	12
+	^	4	13
+	.	4	13
+	+	4	13
+
+> ~/pg/ser.yml
+	*	1776787251	0
+	"	12	16
+	^	12	17
+	.	12	16
+	+	4	12
+	+	5	17
+	+	8	13
+	+	11	10
+	+	12	16
+
+> ~/pg/dep.yml
+	*	1776787055	0
+	"	22	25
+	^	22	26
+	.	22	26
+	+	4	12
+	+	6	13
+	+	7	17
+	+	12	15
+	+	16	17
+	+	19	18
+	+	20	32
+	+	22	26
+
+> ~/project/namespace.yml
+	*	1776759338	0
+	"	4	16
+	^	4	17
+	.	4	16
+	+	1	100
+	+	1	30
+	+	1	84
+	+	1	0
+	+	5	0
+	+	4	16
+
+> ~/service.yml
+	*	1776755437	0
+	"	13	17
+	^	13	18
+	.	13	17
+	+	1	165
+	+	1	71
+	+	1	101
+	+	1	163
+	+	1	27
+	+	1	165
+	+	1	14
+	+	1	67
+	+	1	97
+	+	1	117
+	+	1	128
+	+	1	163
+	+	13	17
+
+> ~/ovclaim.yml
+	*	1776746293	0
+	"	5	17
+	^	5	18
+	.	5	17
+	+	1	169
+	+	1	111
+	+	1	27
+	+	12	32
+	+	5	17
+
+> ~/pvclai,.yml
+	*	1776746205	0
+	"	1	0
+
+> ~/pv.yml
+	*	1776746187	0
+	"	5	17
+	^	5	18
+	.	5	17
+	+	16	18
+	+	15	6
+	+	5	17
+
+> ~/deployment.yml
+	*	1776746031	0
+	"	7	12
+	^	7	13
+	.	7	12
+	+	1	325
+	+	1	380
+	+	1	103
+	+	1	39
+	+	1	380
+	+	1	0
+	+	27	29
+	+	7	12
 
 > ~/cron-job.yml
 	*	1776669806	0
@@ -316,10 +543,6 @@
 	^	13	23
 	.	13	22
 	+	13	22
-
-> ~/deployment.yml
-	*	1776488844	0
-	"	1	0
 
 > ~/kind-cluster/deployment.yml
 	*	1776488393	0
