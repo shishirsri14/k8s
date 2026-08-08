@@ -27,9 +27,9 @@ The main goal of this repository is to understand how containerized applications
 
 ---
 
-##  Project Structure
+## 🏗️ Project Structure
 
-
+```text
 k8s/
 │
 ├── .docker/
